@@ -10,7 +10,7 @@ CLASS_L_Open.m
 Plotcode_Open.m
 calcqsatB.m (This is a function code)
 
-The following data are necessary to run Plotcode_Open.m
+The following data are necessary to run Plotcode_Open.m (Working on depositing them.)
 CLASS-B.mat
 CLS_L_Results.mat
 CLS_Results.mat
